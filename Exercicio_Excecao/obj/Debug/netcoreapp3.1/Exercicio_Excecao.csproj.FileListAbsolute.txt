@@ -1,0 +1,14 @@
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\netcoreapp3.1\Exercicio_Excecao.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\netcoreapp3.1\Exercicio_Excecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\netcoreapp3.1\Exercicio_Excecao.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\netcoreapp3.1\Exercicio_Excecao.AssemblyInfo.cs
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\netcoreapp3.1\Exercicio_Excecao.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\netcoreapp3.1\Exercicio_Excecao.exe
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\netcoreapp3.1\Exercicio_Excecao.deps.json
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\netcoreapp3.1\Exercicio_Excecao.runtimeconfig.json
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\netcoreapp3.1\Exercicio_Excecao.runtimeconfig.dev.json
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\netcoreapp3.1\Exercicio_Excecao.dll
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\bin\Debug\netcoreapp3.1\Exercicio_Excecao.pdb
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\netcoreapp3.1\Exercicio_Excecao.dll
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\netcoreapp3.1\Exercicio_Excecao.pdb
+C:\Users\Pablo\Documents\C#\SEÇÃO 11\Exercicio_Excecao\Exercicio_Excecao\obj\Debug\netcoreapp3.1\Exercicio_Excecao.genruntimeconfig.cache
